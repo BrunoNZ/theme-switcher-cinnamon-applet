@@ -1,10 +1,8 @@
 const Applet = imports.ui.applet;
 const Gio = imports.gi.Gio;
 const Lang = imports.lang;
-const St = imports.gi.St;
 const Tooltips = imports.ui.tooltips;
 const PopupMenu = imports.ui.popupMenu;
-const GnomeSession = imports.misc.gnomeSession;
 
 const DESKTOP_INTERFACE_SCHEMA = 'org.cinnamon.desktop.interface';
 const KEY_GTK_THEME = 'gtk-theme';
