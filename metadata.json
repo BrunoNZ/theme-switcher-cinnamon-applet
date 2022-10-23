@@ -1,0 +1,7 @@
+{
+ "uuid": "theme-switcher@cinnamon.org",
+ "name": "Light/Dark theme switcher",
+ "description": "A simple cinnamon applet to switch between Light/Dark themes",
+ "icon": "preferences-desktop",
+ "max-instances": -1
+}
